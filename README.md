@@ -1,0 +1,2 @@
+# WebSecurity_NoteBook
+这是一个有关Web安全的学习笔记，师从Portswigger，跟随它学习的WebSecurity，同时，还有一些CTF有关的Web安全实战技巧的总结
